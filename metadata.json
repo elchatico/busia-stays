@@ -1,0 +1,6 @@
+{
+  "name": "Busia Stays",
+  "description": "Discover apartments, Airbnbs, hotels and guesthouses in Busia, Kenya. Compare stays and contact hosts directly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
